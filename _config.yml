@@ -3,6 +3,10 @@
 # https://jekyllrb.com/docs/configuration/
 #
 
+title: My Blog
+description: A blog about my thoughts.
+baseurl: "" # leave blank
+
 #
 # Jekyll basic configurations
 #
@@ -66,7 +70,7 @@ dev:            false
 # Site name
 #
 # Default:      Almace Scaffolding
-name:           Almace Scaffolding
+name:           Tarek's Blog
 
 # Site short name
 #
@@ -82,14 +86,14 @@ name:           Almace Scaffolding
 # - name_short: Sparanoid
 #
 # Default:      AMSF
-name_short:     AMSF
+name_short:     TsB
 
 # Site description
 #
 # Will be used in the document meta and Atom feed subtitle
 #
 # Default:      Super-fast Jekyll framework
-description:    Super-fast Jekyll framework
+description:    A blog about my thoughts.
 
 # Base URL
 #
